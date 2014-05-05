@@ -24,4 +24,4 @@ resources:
   homepage: https://metacpan.org/release/Mojo-YR
   license: http://dev.perl.org/licenses/
   repository: https://github.com/jhthorsen/mojo-yr.git
-version: 0.01
+version: 0.02
